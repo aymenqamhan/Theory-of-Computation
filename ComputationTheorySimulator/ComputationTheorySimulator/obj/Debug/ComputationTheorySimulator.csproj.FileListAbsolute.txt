@@ -1,0 +1,42 @@
+C:\Users\Zainon\Desktop\مشروع النظرية الإحتسابية\ComputationTheorySimulator\ComputationTheorySimulator\bin\Debug\ComputationTheorySimulator.exe.config
+C:\Users\Zainon\Desktop\مشروع النظرية الإحتسابية\ComputationTheorySimulator\ComputationTheorySimulator\bin\Debug\ComputationTheorySimulator.exe
+C:\Users\Zainon\Desktop\مشروع النظرية الإحتسابية\ComputationTheorySimulator\ComputationTheorySimulator\bin\Debug\ComputationTheorySimulator.pdb
+C:\Users\Zainon\Desktop\مشروع النظرية الإحتسابية\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.Form1.resources
+C:\Users\Zainon\Desktop\مشروع النظرية الإحتسابية\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.Properties.Resources.resources
+C:\Users\Zainon\Desktop\مشروع النظرية الإحتسابية\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.csproj.GenerateResource.Cache
+C:\Users\Zainon\Desktop\مشروع النظرية الإحتسابية\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.exe
+C:\Users\Zainon\Desktop\مشروع النظرية الإحتسابية\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.pdb
+C:\Users\Zainon\Desktop\مشروع النظرية الإحتسابية\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.csproj.AssemblyReference.cache
+C:\Users\Zainon\Desktop\مشروع النظرية الإحتسابية\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zainon\Desktop\مشروع النظرية الإحتسابية\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.csproj.CoreCompileInputs.cache
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\ComputationTheorySimulator\ComputationTheorySimulator\bin\Debug\ComputationTheorySimulator.exe.config
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\ComputationTheorySimulator\ComputationTheorySimulator\bin\Debug\ComputationTheorySimulator.exe
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\ComputationTheorySimulator\ComputationTheorySimulator\bin\Debug\ComputationTheorySimulator.pdb
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.csproj.AssemblyReference.cache
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.Form1.resources
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.Properties.Resources.resources
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.csproj.GenerateResource.cache
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.csproj.CoreCompileInputs.cache
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.exe
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.pdb
+E:\INFORMATION TECHNOLOGY\learn programing\C#\projects\ComputationTheorySimulator\ComputationTheorySimulator\bin\Debug\ComputationTheorySimulator.exe.config
+E:\INFORMATION TECHNOLOGY\learn programing\C#\projects\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.exe
+E:\INFORMATION TECHNOLOGY\learn programing\C#\projects\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.pdb
+E:\INFORMATION TECHNOLOGY\learn programing\C#\projects\ComputationTheorySimulator\ComputationTheorySimulator\bin\Debug\ComputationTheorySimulator.exe
+E:\INFORMATION TECHNOLOGY\learn programing\C#\projects\ComputationTheorySimulator\ComputationTheorySimulator\bin\Debug\ComputationTheorySimulator.pdb
+E:\INFORMATION TECHNOLOGY\learn programing\C#\projects\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.csproj.AssemblyReference.cache
+E:\INFORMATION TECHNOLOGY\learn programing\C#\projects\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.csproj.SuggestedBindingRedirects.cache
+E:\INFORMATION TECHNOLOGY\learn programing\C#\projects\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.Form1.resources
+E:\INFORMATION TECHNOLOGY\learn programing\C#\projects\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.Properties.Resources.resources
+E:\INFORMATION TECHNOLOGY\learn programing\C#\projects\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.csproj.GenerateResource.cache
+E:\INFORMATION TECHNOLOGY\learn programing\C#\projects\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.csproj.CoreCompileInputs.cache
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\النضريه الاخير\New folder\مجلد جديد\ComputationTheorySimulator\ComputationTheorySimulator\bin\Debug\ComputationTheorySimulator.exe.config
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\النضريه الاخير\New folder\مجلد جديد\ComputationTheorySimulator\ComputationTheorySimulator\bin\Debug\ComputationTheorySimulator.exe
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\النضريه الاخير\New folder\مجلد جديد\ComputationTheorySimulator\ComputationTheorySimulator\bin\Debug\ComputationTheorySimulator.pdb
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\النضريه الاخير\New folder\مجلد جديد\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.csproj.AssemblyReference.cache
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\النضريه الاخير\New folder\مجلد جديد\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.Form1.resources
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\النضريه الاخير\New folder\مجلد جديد\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.Properties.Resources.resources
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\النضريه الاخير\New folder\مجلد جديد\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.csproj.GenerateResource.cache
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\النضريه الاخير\New folder\مجلد جديد\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.csproj.CoreCompileInputs.cache
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\النضريه الاخير\New folder\مجلد جديد\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.exe
+E:\كرسات مستوى 3\مستوى ثاللث ترم ثاني\running programming\النضريه الاخير\New folder\مجلد جديد\ComputationTheorySimulator\ComputationTheorySimulator\obj\Debug\ComputationTheorySimulator.pdb
